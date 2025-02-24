@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nhựa Sinh Học Từ Gelatin</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f9f4;
+            color: #2c5f2d;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 36px;
+            color: #1d3b1d;
+        }
+        h2 {
+            color: #3a7d44;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        .section {
+            margin: 40px 0;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .image {
+            width: 100%;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Nhựa Sinh Học Từ Gelatin</h1>
+        <div class="section">
+            <h2>🌿 Nguồn Gốc & Xuất Xứ</h2>
+            <p>Nhựa sinh học từ gelatin là một vật liệu phân hủy sinh học, được chiết xuất từ nguồn nguyên liệu tự nhiên như da, xương động vật.</p>
+            <img src="https://source.unsplash.com/800x400/?green,nature" alt="Hình ảnh sinh học" class="image">
+        </div>
+        <div class="section">
+            <h2>🔬 Cách Làm</h2>
+            <p>Gelatin được hòa tan trong nước nóng, kết hợp với glycerol để tạo độ dẻo, sau đó được đổ khuôn và làm khô để tạo thành sản phẩm.</p>
+        </div>
+        <div class="section">
+            <h2>✨ Thành Phẩm & Ứng Dụng</h2>
+            <p>Thành phẩm có thể dùng làm bao bì phân hủy sinh học, màng bọc thực phẩm hoặc vật liệu y tế thân thiện với môi trường.</p>
+            <img src="https://source.unsplash.com/800x400/?biodegradable,packaging" alt="Nhựa sinh học" class="image">
+        </div>
+        <div class="section">
+            <h2>✅ Lợi Ích & Hạn Chế</h2>
+            <p><strong>✔ Lợi ích:</strong> Thân thiện với môi trường, phân hủy nhanh, giảm ô nhiễm nhựa.</p>
+            <p><strong>✖ Hạn chế:</strong> Khả năng chịu nước và độ bền kém hơn nhựa truyền thống.</p>
+        </div>
+    </div>
+</body>
+</html>
+
